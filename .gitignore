@@ -1,0 +1,4 @@
+faiss_services
+.env
+__pycache__
+*-info.txt

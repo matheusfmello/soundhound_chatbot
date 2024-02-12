@@ -1,0 +1,13 @@
+beautifulsoup4
+python-dotenv
+faiss-cpu
+ipykernel
+jupyter
+langchain
+langchain-community
+langchain-core
+langchain-openai
+openai
+sentence-transformers
+streamlit
+tiktoken

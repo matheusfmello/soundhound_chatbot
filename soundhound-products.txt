@@ -1,0 +1,1057 @@
+
+Best AI Voice Assistant Products | SoundHound
+SoundHound AI to Acquire SYNQ3 Creating Largest Restaurant Voice AI Provider
+ Learn More 
+Why SoundHound?Products
+ 
+Products
+Our Platform
+SoundHound’s independent voice AI platform is built for more natural conversation.
+Explore our platform
+ 
+Products
+Our PlatformAdvanced conversational AI on an end-to-end tech stackRestaurant Phone Answering and OrderingReduce staffing challenges and take more food ordersSmart AnsweringCustom AI-powered voice assistant that handles 100% of your phone callsWake WordEnhance your brand value when users ask for you by nameAutomatic Speech Recognition (ASR)Acoustic and language models deliver greater accuracyLanguagesSpeak the language of your usersNatural Language Understanding (NLU)Converting speech to meaning at the speed of thoughtIntelligent TranscriptionReal-time transcription that understands meaning through intent and contextContent DomainsData sets for content-rich conversational experiencesText-to-Speech (TTS)A unique voice to deliver engaging brand experiencesEdge and Cloud ConnectivityA suite of Edge and Cloud connectivity solutionsAutomatic Content Recognition (ACR)Accurately scan and report copyrighted material 
+ 
+Developers
+Houndify Developer PlatformBuild your voice assistant and access content domains 
+Apps
+SoundHound Music AppDiscover and play favorite songs by singing or hummingSoundHound Chat AIThe Fastest, Smartest, Most Up-to-Date Voice Assistant 
+ 
+ 
+ 
+Solutions
+ 
+Solutions
+For Every Industry
+Find a customizable and scalable voice AI solution for your industry or use case.
+Explore solutions
+ 
+Industries
+AutomotiveSafer, smarter, and more natural in-car voice experiencesSmart DevicesVoice-enabled smart products with their own wake wordHospitalityInspiring loyalty and improving operational efficienciesRestaurantsSpeedy, easy, and friendly fast-casual food ordering 
+ 
+Use Cases
+Contact CentersConversational AI for intelligent agent assistMobile AppsHands-free access to increase retention and engagementDemosSee SoundHound’s advanced voice AI platform in action 
+ 
+ 
+CustomersResources
+ 
+Resources
+Get the latest voice AI news, keep up on trends, get expert advice, and discover new solutions.
+Explore our blog
+ 
+Resource Types
+Resource CenterBlogWebinarsWhitepapersVideosInfographicsE-BooksPress Releases 
+ 
+Popular Resources
+FAQsWhitepaper: Discovering the Possibilities of Voice Assistants on the EdgeWhitepaper: Voice Assistants Evolve to Become Revenue GeneratorsEbook: The Imperative for Voice-Enabled Mobile AppsEbook: How to Launch a Better Voice Assistant 
+ 
+SoundWave Webinar Series
+How Language Understanding is Key to Conversational AI That's More Human™Get to Market Faster With the Right Voice AI StrategyHow and Why Voice Assistants are Moving to the EdgeThe Shift to Customized Voice Assistants: How Will You Compete? 
+ 
+ 
+ 
+About
+ 
+Our Company
+SoundHound Recognized as 2021 Company of the Year by Frost and Sullivan
+Read more
+ 
+About
+About SoundHoundA leading innovator of conversational intelligenceNewsroomThe latest announcements, news, and company updatesPress RoomInvestorsFinancials and news for SoundHound AI, Inc, (Nasdaq SOUN)CareersJoin Team SoundHound to help build the voice-first futureContact UsGet in touch and speak to an expert about how we can help 
+ 
+ 
+Log in
+ 
+Log in to your Account Dashboard
+Gain access to account setup and management
+ 
+Log In
+Houndify Developer LoginManage your voice assistant and access content domainsSoundHound Restaurants LoginManage your restaurant’s AI voice assistantSmart Answering LoginManage your business’s AI voice assistant 
+ 
+ 
+Support Talk to an expert 
+VOICE AI PRODUCTS
+Voice AI Products That Power Exceptional Voice Experiences
+Complete solutions and individual components to create your unique voice assistant.
+Talk to an expert
+ 
+SoundHound’s End-to-End Voice AI Products 
+ 
+Branded Wake WordsControl your product voice experience, enhance your brand value, and deepen user engagement through a customized, branded wake word (or wake phrase) and let your users ask for you by name. Learn more about wake words 
+Automatic Speech Recognition (ASR)Beginning with the first word spoken by the user, our innovative ASR actively listens and processes complex language patterns, accurately capturing and transcribing user speech in real-time—even in the noisiest of environments. Learn more about ASR 
+Natural Language Understanding (NLU)SoundHound’s (NLU) is built upon our Deep Meaning Understanding® technology, allowing voice assistants to interpret complex conversations containing multiple criteria, exclusions, and cross-domain compound queries—delivering greater understanding and the ability to respond conversationally. Learn more about NLU 
+Text-to-Speech (TTS)We don’t all sound alike, why should our voice assistants? Enhance your brand identity with a digital voice that engages your audiences and creates positive associations for your brand. Personalize your services, apps, or devices with an array of custom text-to-speech voice options. Learn more about TTS 
+Suite of Connectivity OptionsDeliver the fastest, most accurate results whether your device or product is connected to the cloud, or not. Our Edge, Cloud, and Edge+Cloud connectivity solutions range from highly-efficient, low-footprint integrations to robust NLU-based voice experiences—with or without access to the cloud. Learn more about connectivity 
+Multiple LanguagesWe support 25 languages with high accuracy, and our growing language library contains the data necessary to quickly train highly-accurate models for new languages. Learn more about languages 
+Automatic Content Recognition (ACR)Save time and money with advanced music identification technology that accurately scans and reports copyrighted material playing in User Generated Content (UGC) in real-time.Talk to an expert
+Houndify Developer PlatformSoundHound’s Houndify voice AI platform allows developers to build and deploy a conversational assistant with access to a library of content domains and the ability to customize commands and domains.Open a free account
+ 
+Content Domains
+Content domains allow our voice AI platform to respond to queries on a particular topic. For example, a weather domain, such as AccuWeather, allows SoundHound’s voice AI platform to understand questions such as, “What’s the temperature in San Francisco?” 
+Custom DomainsThe ability to create customized domains gives brands the choice and flexibility to add specialized content that matches the needs of their customers.
+Library of Hundreds of DomainsOur growing library of proprietary content domains render accurate results for any query—including weather, navigation, local search, stocks, general knowledge, and more.
+Learn more about domains
+ 
+SoundHound Music App
+Discover and play your favorite songs by simply humming or singing. Sing along, get recommendations, and add to your playlists by just using your voice.
+app store
+google play
+Hound Voice Assistant
+The Hound App—powered by SoundHound’s advanced voice AI technology—delivers the fastest, most accurate answers of any voice assistant available.
+app store
+google play
+ 
+Explore Voice AI for Your Business
+Talk to us about how we can help bring your voice AI strategy to life.
+Speak with an expertTalk to us about what voice AI can do for your business.
+Try it freeOpen a Houndify developer account and explore our platform.
+At SoundHound, we believe every brand should have a voice. As the leading innovator of conversational technologies, we’re trusted by top brands around the globe.
+5400 Betsy Ross Drive 
+Santa Clara, CA 95054
++1(408) 441-3200
+Why SoundHound?
+Customers
+About SoundHound
+Investors
+Newsroom
+Careers
+Support
+ 
+Solutions
+Industries
+Automotive
+Smart Devices
+Restaurant Food Ordering
+Hospitality
+Use Cases
+Contact Centers
+Mobile Apps
+Demos
+ 
+Products
+Products
+Our Platform
+Restaurant Phone Ordering
+Smart Answering OLD
+Wake Word
+Automatic Speech Recognition (ASR)
+Natural Language Understanding (NLU)
+Content Domains
+Edge and Cloud Connectivity
+Text-to-Speech (TTS)
+Developers
+Developer Accounts
+Apps
+SoundHound Music App
+SoundHound Chat AI
+ 
+Resources
+Resource Center
+FAQs
+Voice AI Blog
+Webinars
+Whitepapers
+Videos
+Infographics
+E-Books
+ 
+Language
+English International
+简体中文 (Chinese (Simplified))
+日本語 (Japanese)
+© 2024 SoundHound AI Inc. All Rights Reserved.
+Terms
+Privacy Policy
+Cookie Settings
+Do Not Sell or Share My Personal Information
+ 
+
+
+Wake Word | Phrase Recognition | SoundHound
+SoundHound AI to Acquire SYNQ3 Creating Largest Restaurant Voice AI Provider
+ Learn More 
+Why SoundHound?Products
+ 
+Products
+Our Platform
+SoundHound’s independent voice AI platform is built for more natural conversation.
+Explore our platform
+ 
+Products
+Our PlatformAdvanced conversational AI on an end-to-end tech stackRestaurant Phone Answering and OrderingReduce staffing challenges and take more food ordersSmart AnsweringCustom AI-powered voice assistant that handles 100% of your phone callsWake WordEnhance your brand value when users ask for you by nameAutomatic Speech Recognition (ASR)Acoustic and language models deliver greater accuracyLanguagesSpeak the language of your usersNatural Language Understanding (NLU)Converting speech to meaning at the speed of thoughtIntelligent TranscriptionReal-time transcription that understands meaning through intent and contextContent DomainsData sets for content-rich conversational experiencesText-to-Speech (TTS)A unique voice to deliver engaging brand experiencesEdge and Cloud ConnectivityA suite of Edge and Cloud connectivity solutionsAutomatic Content Recognition (ACR)Accurately scan and report copyrighted material 
+ 
+Developers
+Houndify Developer PlatformBuild your voice assistant and access content domains 
+Apps
+SoundHound Music AppDiscover and play favorite songs by singing or hummingSoundHound Chat AIThe Fastest, Smartest, Most Up-to-Date Voice Assistant 
+ 
+ 
+ 
+Solutions
+ 
+Solutions
+For Every Industry
+Find a customizable and scalable voice AI solution for your industry or use case.
+Explore solutions
+ 
+Industries
+AutomotiveSafer, smarter, and more natural in-car voice experiencesSmart DevicesVoice-enabled smart products with their own wake wordHospitalityInspiring loyalty and improving operational efficienciesRestaurantsSpeedy, easy, and friendly fast-casual food ordering 
+ 
+Use Cases
+Contact CentersConversational AI for intelligent agent assistMobile AppsHands-free access to increase retention and engagementDemosSee SoundHound’s advanced voice AI platform in action 
+ 
+ 
+CustomersResources
+ 
+Resources
+Get the latest voice AI news, keep up on trends, get expert advice, and discover new solutions.
+Explore our blog
+ 
+Resource Types
+Resource CenterBlogWebinarsWhitepapersVideosInfographicsE-BooksPress Releases 
+ 
+Popular Resources
+FAQsWhitepaper: Discovering the Possibilities of Voice Assistants on the EdgeWhitepaper: Voice Assistants Evolve to Become Revenue GeneratorsEbook: The Imperative for Voice-Enabled Mobile AppsEbook: How to Launch a Better Voice Assistant 
+ 
+SoundWave Webinar Series
+How Language Understanding is Key to Conversational AI That's More Human™Get to Market Faster With the Right Voice AI StrategyHow and Why Voice Assistants are Moving to the EdgeThe Shift to Customized Voice Assistants: How Will You Compete? 
+ 
+ 
+ 
+About
+ 
+Our Company
+SoundHound Recognized as 2021 Company of the Year by Frost and Sullivan
+Read more
+ 
+About
+About SoundHoundA leading innovator of conversational intelligenceNewsroomThe latest announcements, news, and company updatesPress RoomInvestorsFinancials and news for SoundHound AI, Inc, (Nasdaq SOUN)CareersJoin Team SoundHound to help build the voice-first futureContact UsGet in touch and speak to an expert about how we can help 
+ 
+ 
+Log in
+ 
+Log in to your Account Dashboard
+Gain access to account setup and management
+ 
+Log In
+Houndify Developer LoginManage your voice assistant and access content domainsSoundHound Restaurants LoginManage your restaurant’s AI voice assistantSmart Answering LoginManage your business’s AI voice assistant 
+ 
+ 
+Support Talk to an expert 
+WAKE WORD
+A Dedicated Wake Word For Your Brand
+Enhance your brand value when users ask for you by name.
+Talk to an expert
+ 
+NEED
+Let Customers Ask for You by Name
+Establish your customized voice experience with a branded wake word of your own. Deepen user engagement, increase brand affinity, and inspire loyalty when your users ask for you by name every time they interact with your product.
+ 
+BENEFITS
+Fast and Accurate Wake Words
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Wake Word Accuracy 
+We use advanced machine learning algorithms and deep neural networks to synthesize a wide range of training data to create the most robust wake word models with highest response accuracy in the market.
+ Fast Time to Market
+Creating a customized, branded wake word doesn’t have to slow the time to market for your voice assistant. Our comprehensive data collection and labeling processes enable us to build and deliver your fully-developed wake word in just a few weeks.
+ On-Going Optimization
+We provide our partners with ongoing wake word improvement services. Our long-term commitment to fine-tuning your wake word performance using in-production data ensures delivery of the most reliable and responsive wake word possible.
+ Rapid Development and Delivery
+Accelerate data validation time and get your voice assistant to production in your environment sooner. We’ll deliver a low-cost, branded wake word quickly to use in production or as a POC.
+ 
+Talk to an expert
+See Our Wake Word Technology in Action
+Advanced Wake Word Technology
+ 
+False Positive SuppressionMaximize wake word performance in any environment. Our broad augmentation and audio detection eliminate false positive triggers—ensuring your wake word is responsive and reliable.
+Biometric Speaker IDHighly-accurate identification of individual speakers for customized responses. Programmable voice verification allows for personalized experiences in multi-user environments.
+Flexible Phrase SpotterDevelopers can integrate third-party assistants—such as Alexa and Google—alongside their own with minimal CPU impact and the ability to switch between assistants in real-time.
+Locally EmbeddedEmbedded wake words decrease response times and eliminate reliance on the cloud to trigger your voice assistant—operating seamlessly in all cloud-connected and embedded-only environments.
+On-Going OptimizationWe provide ongoing wake word improvement services and fine-tuning your wake word performance using in-production data to ensure the most reliable and responsive wake word possible.
+ 
+Explore Voice AI for Your Business
+Talk to us about how we can help bring your voice AI strategy to life.
+Speak with an expertTalk to us about what voice AI can do for your business.
+Try it freeOpen a Houndify developer account and explore our platform.
+At SoundHound, we believe every brand should have a voice. As the leading innovator of conversational technologies, we’re trusted by top brands around the globe.
+5400 Betsy Ross Drive 
+Santa Clara, CA 95054
++1(408) 441-3200
+Why SoundHound?
+Customers
+About SoundHound
+Investors
+Newsroom
+Careers
+Support
+ 
+Solutions
+Industries
+Automotive
+Smart Devices
+Restaurant Food Ordering
+Hospitality
+Use Cases
+Contact Centers
+Mobile Apps
+Demos
+ 
+Products
+Products
+Our Platform
+Restaurant Phone Ordering
+Smart Answering OLD
+Wake Word
+Automatic Speech Recognition (ASR)
+Natural Language Understanding (NLU)
+Content Domains
+Edge and Cloud Connectivity
+Text-to-Speech (TTS)
+Developers
+Developer Accounts
+Apps
+SoundHound Music App
+SoundHound Chat AI
+ 
+Resources
+Resource Center
+FAQs
+Voice AI Blog
+Webinars
+Whitepapers
+Videos
+Infographics
+E-Books
+ 
+Language
+English International
+简体中文 (Chinese (Simplified))
+日本語 (Japanese)
+© 2024 SoundHound AI Inc. All Rights Reserved.
+Terms
+Privacy Policy
+Cookie Settings
+Do Not Sell or Share My Personal Information
+ 
+
+
+Automatic Speech Recognition (ASR) | SoundHound
+SoundHound AI to Acquire SYNQ3 Creating Largest Restaurant Voice AI Provider
+ Learn More 
+Why SoundHound?Products
+ 
+Products
+Our Platform
+SoundHound’s independent voice AI platform is built for more natural conversation.
+Explore our platform
+ 
+Products
+Our PlatformAdvanced conversational AI on an end-to-end tech stackRestaurant Phone Answering and OrderingReduce staffing challenges and take more food ordersSmart AnsweringCustom AI-powered voice assistant that handles 100% of your phone callsWake WordEnhance your brand value when users ask for you by nameAutomatic Speech Recognition (ASR)Acoustic and language models deliver greater accuracyLanguagesSpeak the language of your usersNatural Language Understanding (NLU)Converting speech to meaning at the speed of thoughtIntelligent TranscriptionReal-time transcription that understands meaning through intent and contextContent DomainsData sets for content-rich conversational experiencesText-to-Speech (TTS)A unique voice to deliver engaging brand experiencesEdge and Cloud ConnectivityA suite of Edge and Cloud connectivity solutionsAutomatic Content Recognition (ACR)Accurately scan and report copyrighted material 
+ 
+Developers
+Houndify Developer PlatformBuild your voice assistant and access content domains 
+Apps
+SoundHound Music AppDiscover and play favorite songs by singing or hummingSoundHound Chat AIThe Fastest, Smartest, Most Up-to-Date Voice Assistant 
+ 
+ 
+ 
+Solutions
+ 
+Solutions
+For Every Industry
+Find a customizable and scalable voice AI solution for your industry or use case.
+Explore solutions
+ 
+Industries
+AutomotiveSafer, smarter, and more natural in-car voice experiencesSmart DevicesVoice-enabled smart products with their own wake wordHospitalityInspiring loyalty and improving operational efficienciesRestaurantsSpeedy, easy, and friendly fast-casual food ordering 
+ 
+Use Cases
+Contact CentersConversational AI for intelligent agent assistMobile AppsHands-free access to increase retention and engagementDemosSee SoundHound’s advanced voice AI platform in action 
+ 
+ 
+CustomersResources
+ 
+Resources
+Get the latest voice AI news, keep up on trends, get expert advice, and discover new solutions.
+Explore our blog
+ 
+Resource Types
+Resource CenterBlogWebinarsWhitepapersVideosInfographicsE-BooksPress Releases 
+ 
+Popular Resources
+FAQsWhitepaper: Discovering the Possibilities of Voice Assistants on the EdgeWhitepaper: Voice Assistants Evolve to Become Revenue GeneratorsEbook: The Imperative for Voice-Enabled Mobile AppsEbook: How to Launch a Better Voice Assistant 
+ 
+SoundWave Webinar Series
+How Language Understanding is Key to Conversational AI That's More Human™Get to Market Faster With the Right Voice AI StrategyHow and Why Voice Assistants are Moving to the EdgeThe Shift to Customized Voice Assistants: How Will You Compete? 
+ 
+ 
+ 
+About
+ 
+Our Company
+SoundHound Recognized as 2021 Company of the Year by Frost and Sullivan
+Read more
+ 
+About
+About SoundHoundA leading innovator of conversational intelligenceNewsroomThe latest announcements, news, and company updatesPress RoomInvestorsFinancials and news for SoundHound AI, Inc, (Nasdaq SOUN)CareersJoin Team SoundHound to help build the voice-first futureContact UsGet in touch and speak to an expert about how we can help 
+ 
+ 
+Log in
+ 
+Log in to your Account Dashboard
+Gain access to account setup and management
+ 
+Log In
+Houndify Developer LoginManage your voice assistant and access content domainsSoundHound Restaurants LoginManage your restaurant’s AI voice assistantSmart Answering LoginManage your business’s AI voice assistant 
+ 
+ 
+Support Talk to an expert 
+AUTOMATIC SPEECH RECOGNITION (ASR)
+Customizable Speech-to-Text Solutions for Branded Experiences
+Advanced acoustic and language modeling for superior speech-to-text accuracy
+Talk to an expert
+ 
+NEED
+Unparalleled Understanding and Accuracy 
+SoundHound’s ASR delivers higher sentence accuracy through our Speech-to-Meaning® technology and a richer context for recognizing words. The integration of our NLU components enables our neural network-based ASR to transcribe complex speech with greater precision.
+ 
+BENEFITS
+Our Neural Network-Based Automated Speech Recognition
+ 
+ 
+ 
+ 
+ 
+ 
+ Large Vocabulary with Accuracy
+Our highly optimized, tunable, and scalable ASR engine supports vocabulary sizes containing millions of words. SoundHound’s machine learning infrastructure allows us to tune the engine to achieve optimal CPU performance, while delivering higher accuracy rates.
+ Improved Acoustic Modeling
+Our deep learning architecture uses sophisticated training methods in a variety of real-world scenarios—including different acoustic conditions, speaker variations, and application domains—for the highest accuracy.
+ Advanced Language Modeling
+Neural Network Language models integrated with elements of NLU allow our ASR to understand the context of the spoken word and deliver higher-quality statistical models in the presence of compound sentences—resulting in increased transcription accuracy.
+ Custom ASR Enhancement
+Dynamically augment your ASR client to accurately understand your unique lexicon and deliver more accurate results. Simply upload grammars containing new phrases and vocabularies for instant augmentation.
+ 
+Exceptional Results in Any Environment
+Highly-accurate advanced acoustic models trained to perform in a variety of scenarios.
+A Suite of Edge Connectivity SolutionsOptimize your voice-enabled products with connectivity options ranging from fully-embedded or hybrid to exclusively cloud-connected. Choose the solution that best fits your NLU requirements, CPU processing power, and privacy requirements.
+Customized Field Data AugmentationNoisy environments present unique challenges for ASR. By augmenting our data with the unique characteristics of your user’s environment, such as ambient noise, multiple speakers, and echos, we are able to deliver ASR models with unprecedented accuracy.
+AI-Powered Voice Assistant for Video Conferencing and Meetings
+SoundHound’s advanced voice AI transforms video calls and meetings into efficient, convenient, and hands-free experiences featuring highly-accurate transcription and speaker ID capabilities.
+SoundHound Provides an End-to-End Voice AI Tech Stack
+ 
+Custom vocabulary
+Custom pronunciation
+SSL
+Confidence score
+Timestamp generation
+Speaker ID
+Speaker verification
+Real-time streaming
+Connectivity options
+At-rest encryption
+ 
+Custom vocabularyUpload, train, and transcribe terms for enhancing accuracy of domain-specific words or phrases that are relevant to your unique use case.
+Custom pronunciationCustomize pronunciation of uncommon terms, acronyms, names, or other words.
+SSLSSL-secured data transfers that protect media and transcripts.
+Confidence scoreMeasure the degree of accuracy for the transcription response.
+Timestamp generationGenerate timestamps for each word in milliseconds.
+Speaker IDDetermine who is speaking.
+Speaker verificationAccept or reject the identity claimed by a speaker.
+Real-time streamingStream audio and transcriptions to and from content platforms in real-time.
+Connectivity optionsChoose from fully-embedded to hybrid to cloud-only connectivity.
+At-rest encryptionEncrypt the output from a transcription job at secure storage.
+ 
+Speak the Language of Your Users
+If you’re a multinational company or you may be one in the future, your voice assistant must speak more languages.
+Multiple Languages Our growing library of languages provides the data necessary to quickly train highly-accurate models for new languages. We currently support 25 of the world’s most popular languages with more in development.
+Accented Language AccuracyOur acoustic models are exposed to robust training data that cover a wide range of subjects— from both native language and second language speakers—and include distinct regional models for large populations with known variations and accents.
+Explore Voice AI for Your Business
+Talk to us about how we can help bring your voice AI strategy to life.
+Speak with an expertTalk to us about what voice AI can do for your business. 
+Try it freeOpen a Houndify developer account and explore our platform. 
+At SoundHound, we believe every brand should have a voice. As the leading innovator of conversational technologies, we’re trusted by top brands around the globe.
+5400 Betsy Ross Drive 
+Santa Clara, CA 95054
++1(408) 441-3200
+Why SoundHound?
+Customers
+About SoundHound
+Investors
+Newsroom
+Careers
+Support
+ 
+Solutions
+Industries
+Automotive
+Smart Devices
+Restaurant Food Ordering
+Hospitality
+Use Cases
+Contact Centers
+Mobile Apps
+Demos
+ 
+Products
+Products
+Our Platform
+Restaurant Phone Ordering
+Smart Answering OLD
+Wake Word
+Automatic Speech Recognition (ASR)
+Natural Language Understanding (NLU)
+Content Domains
+Edge and Cloud Connectivity
+Text-to-Speech (TTS)
+Developers
+Developer Accounts
+Apps
+SoundHound Music App
+SoundHound Chat AI
+ 
+Resources
+Resource Center
+FAQs
+Voice AI Blog
+Webinars
+Whitepapers
+Videos
+Infographics
+E-Books
+ 
+Language
+English International
+简体中文 (Chinese (Simplified))
+日本語 (Japanese)
+© 2024 SoundHound AI Inc. All Rights Reserved.
+Terms
+Privacy Policy
+Cookie Settings
+Do Not Sell or Share My Personal Information
+ 
+
+
+Natural Language Understanding (NLU) Platform | SoundHound
+SoundHound AI to Acquire SYNQ3 Creating Largest Restaurant Voice AI Provider
+ Learn More 
+Why SoundHound?Products
+ 
+Products
+Our Platform
+SoundHound’s independent voice AI platform is built for more natural conversation.
+Explore our platform
+ 
+Products
+Our PlatformAdvanced conversational AI on an end-to-end tech stackRestaurant Phone Answering and OrderingReduce staffing challenges and take more food ordersSmart AnsweringCustom AI-powered voice assistant that handles 100% of your phone callsWake WordEnhance your brand value when users ask for you by nameAutomatic Speech Recognition (ASR)Acoustic and language models deliver greater accuracyLanguagesSpeak the language of your usersNatural Language Understanding (NLU)Converting speech to meaning at the speed of thoughtIntelligent TranscriptionReal-time transcription that understands meaning through intent and contextContent DomainsData sets for content-rich conversational experiencesText-to-Speech (TTS)A unique voice to deliver engaging brand experiencesEdge and Cloud ConnectivityA suite of Edge and Cloud connectivity solutionsAutomatic Content Recognition (ACR)Accurately scan and report copyrighted material 
+ 
+Developers
+Houndify Developer PlatformBuild your voice assistant and access content domains 
+Apps
+SoundHound Music AppDiscover and play favorite songs by singing or hummingSoundHound Chat AIThe Fastest, Smartest, Most Up-to-Date Voice Assistant 
+ 
+ 
+ 
+Solutions
+ 
+Solutions
+For Every Industry
+Find a customizable and scalable voice AI solution for your industry or use case.
+Explore solutions
+ 
+Industries
+AutomotiveSafer, smarter, and more natural in-car voice experiencesSmart DevicesVoice-enabled smart products with their own wake wordHospitalityInspiring loyalty and improving operational efficienciesRestaurantsSpeedy, easy, and friendly fast-casual food ordering 
+ 
+Use Cases
+Contact CentersConversational AI for intelligent agent assistMobile AppsHands-free access to increase retention and engagementDemosSee SoundHound’s advanced voice AI platform in action 
+ 
+ 
+CustomersResources
+ 
+Resources
+Get the latest voice AI news, keep up on trends, get expert advice, and discover new solutions.
+Explore our blog
+ 
+Resource Types
+Resource CenterBlogWebinarsWhitepapersVideosInfographicsE-BooksPress Releases 
+ 
+Popular Resources
+FAQsWhitepaper: Discovering the Possibilities of Voice Assistants on the EdgeWhitepaper: Voice Assistants Evolve to Become Revenue GeneratorsEbook: The Imperative for Voice-Enabled Mobile AppsEbook: How to Launch a Better Voice Assistant 
+ 
+SoundWave Webinar Series
+How Language Understanding is Key to Conversational AI That's More Human™Get to Market Faster With the Right Voice AI StrategyHow and Why Voice Assistants are Moving to the EdgeThe Shift to Customized Voice Assistants: How Will You Compete? 
+ 
+ 
+ 
+About
+ 
+Our Company
+SoundHound Recognized as 2021 Company of the Year by Frost and Sullivan
+Read more
+ 
+About
+About SoundHoundA leading innovator of conversational intelligenceNewsroomThe latest announcements, news, and company updatesPress RoomInvestorsFinancials and news for SoundHound AI, Inc, (Nasdaq SOUN)CareersJoin Team SoundHound to help build the voice-first futureContact UsGet in touch and speak to an expert about how we can help 
+ 
+ 
+Log in
+ 
+Log in to your Account Dashboard
+Gain access to account setup and management
+ 
+Log In
+Houndify Developer LoginManage your voice assistant and access content domainsSoundHound Restaurants LoginManage your restaurant’s AI voice assistantSmart Answering LoginManage your business’s AI voice assistant 
+ 
+ 
+Support Talk to an expert 
+NATURAL LANGUAGE UNDERSTANDING (NLU)
+Conversational Language Understanding at the Speed of Thought
+Understanding speech in real-time and creating meaning even as the user is talking. 
+Talk to an expert
+ 
+NEED
+Understanding Conversations in Real-Time
+Easy, intuitive, and intelligent conversations between humans and voice assistants are made possible with SoundHound’s patented approach to Natural Language Understanding (NLU). Our Speech-to-Meaning® and Deep Meaning Understanding® technologies combine to give your voice assistant the power to address multiple questions and filter results simultaneously—delivering accurate, natural responses to complex requests.
+ 
+Conversational AI That’s More Human™ 
+ 
+Fastest Comprehension SoundHound’s unique ability to process and understand speech in real-time gives voice assistants the ability to respond before the user has finished speaking.
+Most Accurate ResponsesOur advanced NLU understands context and responds accurately—discerning between words that sound the same but have different spellings and meanings.
+Greater UnderstandingNeural Wordifier™ improves understanding by modifying complex queries—and those that include poor diction or phrasing—to return accurate results.
+ 
+Language Understanding Beyond the Spoken Word
+SoundHound’s proprietary Deep Meaning Understanding® technology understands user intent, addresses multiple questions, and filters results simultaneously to accurately and quickly answer the most complex questions.
+ 
+ 
+ 
+ 
+ 
+ Complex and Compound Queries
+SoundHound’s unique approach to NLU allows users to ask multiple questions that contain a complex set of variables, exclusions, and information that must be gathered across domains.
+ Context Aware™
+Eliminate the need to constantly repeat details from your original query. Our advanced Context Aware technology allows your customers to ask follow-up questions without starting the conversation over and modify or build on the conversation without having to repeat the context.
+ Negations and Double Negations
+Double negatives can be confusing, but they are often used in everyday casual speech. SoundHound’s NLU delivers a deep level of accuracy and understanding even when users ask for things that include negations and double negations.
+ 
+Speech-to-Meaning® 
+Instead of transcribing speech into text (ASR) and then passing the text into an NLU model, the SoundHound voice AI platform accomplishes both in one step, delivering faster and more accurate results.
+Watch the Video
+Independent Voice AI Platform
+Our patented approach creates natural conversations between people and products.
+NLU Derived From Speech or TextOur NLU is flexible enough to handle either text or speech. Whether it’s text-based input or spoken, we achieve unprecedented speed and accuracy.
+25 Languages SupportedNot only does your voice assistant need to understand arbitrary, complex conversations in context, it needs to talk to every user in every market.
+Learn more about industry solutions
+Conversational Experiences for Your Brand
+Partner with us to integrate a proprietary NLU that allows humans to interact with computers, information, and services the way we interact with each other, by speaking naturally.
+Speak with an expertTalk to us about what voice AI can do for your business. 
+Try it freeOpen a Houndify developer account and explore our platform. 
+At SoundHound, we believe every brand should have a voice. As the leading innovator of conversational technologies, we’re trusted by top brands around the globe.
+5400 Betsy Ross Drive 
+Santa Clara, CA 95054
++1(408) 441-3200
+Why SoundHound?
+Customers
+About SoundHound
+Investors
+Newsroom
+Careers
+Support
+ 
+Solutions
+Industries
+Automotive
+Smart Devices
+Restaurant Food Ordering
+Hospitality
+Use Cases
+Contact Centers
+Mobile Apps
+Demos
+ 
+Products
+Products
+Our Platform
+Restaurant Phone Ordering
+Smart Answering OLD
+Wake Word
+Automatic Speech Recognition (ASR)
+Natural Language Understanding (NLU)
+Content Domains
+Edge and Cloud Connectivity
+Text-to-Speech (TTS)
+Developers
+Developer Accounts
+Apps
+SoundHound Music App
+SoundHound Chat AI
+ 
+Resources
+Resource Center
+FAQs
+Voice AI Blog
+Webinars
+Whitepapers
+Videos
+Infographics
+E-Books
+ 
+Language
+English International
+简体中文 (Chinese (Simplified))
+日本語 (Japanese)
+© 2024 SoundHound AI Inc. All Rights Reserved.
+Terms
+Privacy Policy
+Cookie Settings
+Do Not Sell or Share My Personal Information
+ 
+
+
+Text to Speech (TTS) | SoundHound
+SoundHound AI to Acquire SYNQ3 Creating Largest Restaurant Voice AI Provider
+ Learn More 
+Why SoundHound?Products
+ 
+Products
+Our Platform
+SoundHound’s independent voice AI platform is built for more natural conversation.
+Explore our platform
+ 
+Products
+Our PlatformAdvanced conversational AI on an end-to-end tech stackRestaurant Phone Answering and OrderingReduce staffing challenges and take more food ordersSmart AnsweringCustom AI-powered voice assistant that handles 100% of your phone callsWake WordEnhance your brand value when users ask for you by nameAutomatic Speech Recognition (ASR)Acoustic and language models deliver greater accuracyLanguagesSpeak the language of your usersNatural Language Understanding (NLU)Converting speech to meaning at the speed of thoughtIntelligent TranscriptionReal-time transcription that understands meaning through intent and contextContent DomainsData sets for content-rich conversational experiencesText-to-Speech (TTS)A unique voice to deliver engaging brand experiencesEdge and Cloud ConnectivityA suite of Edge and Cloud connectivity solutionsAutomatic Content Recognition (ACR)Accurately scan and report copyrighted material 
+ 
+Developers
+Houndify Developer PlatformBuild your voice assistant and access content domains 
+Apps
+SoundHound Music AppDiscover and play favorite songs by singing or hummingSoundHound Chat AIThe Fastest, Smartest, Most Up-to-Date Voice Assistant 
+ 
+ 
+ 
+Solutions
+ 
+Solutions
+For Every Industry
+Find a customizable and scalable voice AI solution for your industry or use case.
+Explore solutions
+ 
+Industries
+AutomotiveSafer, smarter, and more natural in-car voice experiencesSmart DevicesVoice-enabled smart products with their own wake wordHospitalityInspiring loyalty and improving operational efficienciesRestaurantsSpeedy, easy, and friendly fast-casual food ordering 
+ 
+Use Cases
+Contact CentersConversational AI for intelligent agent assistMobile AppsHands-free access to increase retention and engagementDemosSee SoundHound’s advanced voice AI platform in action 
+ 
+ 
+CustomersResources
+ 
+Resources
+Get the latest voice AI news, keep up on trends, get expert advice, and discover new solutions.
+Explore our blog
+ 
+Resource Types
+Resource CenterBlogWebinarsWhitepapersVideosInfographicsE-BooksPress Releases 
+ 
+Popular Resources
+FAQsWhitepaper: Discovering the Possibilities of Voice Assistants on the EdgeWhitepaper: Voice Assistants Evolve to Become Revenue GeneratorsEbook: The Imperative for Voice-Enabled Mobile AppsEbook: How to Launch a Better Voice Assistant 
+ 
+SoundWave Webinar Series
+How Language Understanding is Key to Conversational AI That's More Human™Get to Market Faster With the Right Voice AI StrategyHow and Why Voice Assistants are Moving to the EdgeThe Shift to Customized Voice Assistants: How Will You Compete? 
+ 
+ 
+ 
+About
+ 
+Our Company
+SoundHound Recognized as 2021 Company of the Year by Frost and Sullivan
+Read more
+ 
+About
+About SoundHoundA leading innovator of conversational intelligenceNewsroomThe latest announcements, news, and company updatesPress RoomInvestorsFinancials and news for SoundHound AI, Inc, (Nasdaq SOUN)CareersJoin Team SoundHound to help build the voice-first futureContact UsGet in touch and speak to an expert about how we can help 
+ 
+ 
+Log in
+ 
+Log in to your Account Dashboard
+Gain access to account setup and management
+ 
+Log In
+Houndify Developer LoginManage your voice assistant and access content domainsSoundHound Restaurants LoginManage your restaurant’s AI voice assistantSmart Answering LoginManage your business’s AI voice assistant 
+ 
+ 
+Support Talk to an expert 
+TEXT-TO-SPEECH (TTS)
+A Unique Voice to Deliver Engaging Brand Experiences
+Communicate your brand identity and personality with a customized digital voice. 
+Talk to an expert
+ 
+NEED
+Branded Voice Experiences
+The voice you choose is as important to your brand as your logo or mission statement. Make a positive, lasting impression with a TTS voice that communicates your unique brand identity.
+ 
+A Vocal Identity for Your Brand
+Find a unique voice that communicates your brand and differentiates you in the market. Express your brand personality by choosing the gender, tone, and personality that will become your vocal brand identity.
+Library of Voices We offer an extensive selection of voices to add personality to your voice user interfaces. If you can’t find one that fits your needs, we can create a customized voice built with your users in mind.
+Voices in Many Languages Deliver text-to-speech that’s able to speak the native language of your users with accurate local accents and dialects. When you work with us, you’ll have access to 30+ languages and dialects—with more on the way.
+ 
+Advanced Speech SynthesisOur TTS solutions exceed the typical criteria for naturalness, intelligibility, comprehensibility, and intonation. Customize your voice by integrating your lexicon—including names, acronyms, and product-specific language and the speaking style of your users.
+Neural Text-to-Speech SolutionsOur machine learning algorithms transform recorded voices into large databases of spoken sounds to form entire vocabularies of natural language—adapted to your user’s environment. Transform any voice to generate a high-quality TTS with a small CPU footprint.
+Edge and Cloud-Based TTSIncrease on-device responsiveness with always-on connectivity. Whether your device or product has full internet connectivity or not, we have the expertise and the tools to deliver the highest quality TTS to meet your needs.
+ 
+Find Your Vocal Brand Identity
+Partner with us for your TTS needs. We have all the tools and expertise to create a unique voice assistant and a vocal brand identity.
+Speak with an expertTalk to us about what voice AI can do for your business.
+Try it freeOpen a Houndify developer account and explore our platform.
+At SoundHound, we believe every brand should have a voice. As the leading innovator of conversational technologies, we’re trusted by top brands around the globe.
+5400 Betsy Ross Drive 
+Santa Clara, CA 95054
++1(408) 441-3200
+Why SoundHound?
+Customers
+About SoundHound
+Investors
+Newsroom
+Careers
+Support
+ 
+Solutions
+Industries
+Automotive
+Smart Devices
+Restaurant Food Ordering
+Hospitality
+Use Cases
+Contact Centers
+Mobile Apps
+Demos
+ 
+Products
+Products
+Our Platform
+Restaurant Phone Ordering
+Smart Answering OLD
+Wake Word
+Automatic Speech Recognition (ASR)
+Natural Language Understanding (NLU)
+Content Domains
+Edge and Cloud Connectivity
+Text-to-Speech (TTS)
+Developers
+Developer Accounts
+Apps
+SoundHound Music App
+SoundHound Chat AI
+ 
+Resources
+Resource Center
+FAQs
+Voice AI Blog
+Webinars
+Whitepapers
+Videos
+Infographics
+E-Books
+ 
+Language
+English International
+简体中文 (Chinese (Simplified))
+日本語 (Japanese)
+© 2024 SoundHound AI Inc. All Rights Reserved.
+Terms
+Privacy Policy
+Cookie Settings
+Do Not Sell or Share My Personal Information
+ 
+
+
+Edge and Cloud Connectivity | SoundHound
+SoundHound AI to Acquire SYNQ3 Creating Largest Restaurant Voice AI Provider
+ Learn More 
+Why SoundHound?Products
+ 
+Products
+Our Platform
+SoundHound’s independent voice AI platform is built for more natural conversation.
+Explore our platform
+ 
+Products
+Our PlatformAdvanced conversational AI on an end-to-end tech stackRestaurant Phone Answering and OrderingReduce staffing challenges and take more food ordersSmart AnsweringCustom AI-powered voice assistant that handles 100% of your phone callsWake WordEnhance your brand value when users ask for you by nameAutomatic Speech Recognition (ASR)Acoustic and language models deliver greater accuracyLanguagesSpeak the language of your usersNatural Language Understanding (NLU)Converting speech to meaning at the speed of thoughtIntelligent TranscriptionReal-time transcription that understands meaning through intent and contextContent DomainsData sets for content-rich conversational experiencesText-to-Speech (TTS)A unique voice to deliver engaging brand experiencesEdge and Cloud ConnectivityA suite of Edge and Cloud connectivity solutionsAutomatic Content Recognition (ACR)Accurately scan and report copyrighted material 
+ 
+Developers
+Houndify Developer PlatformBuild your voice assistant and access content domains 
+Apps
+SoundHound Music AppDiscover and play favorite songs by singing or hummingSoundHound Chat AIThe Fastest, Smartest, Most Up-to-Date Voice Assistant 
+ 
+ 
+ 
+Solutions
+ 
+Solutions
+For Every Industry
+Find a customizable and scalable voice AI solution for your industry or use case.
+Explore solutions
+ 
+Industries
+AutomotiveSafer, smarter, and more natural in-car voice experiencesSmart DevicesVoice-enabled smart products with their own wake wordHospitalityInspiring loyalty and improving operational efficienciesRestaurantsSpeedy, easy, and friendly fast-casual food ordering 
+ 
+Use Cases
+Contact CentersConversational AI for intelligent agent assistMobile AppsHands-free access to increase retention and engagementDemosSee SoundHound’s advanced voice AI platform in action 
+ 
+ 
+CustomersResources
+ 
+Resources
+Get the latest voice AI news, keep up on trends, get expert advice, and discover new solutions.
+Explore our blog
+ 
+Resource Types
+Resource CenterBlogWebinarsWhitepapersVideosInfographicsE-BooksPress Releases 
+ 
+Popular Resources
+FAQsWhitepaper: Discovering the Possibilities of Voice Assistants on the EdgeWhitepaper: Voice Assistants Evolve to Become Revenue GeneratorsEbook: The Imperative for Voice-Enabled Mobile AppsEbook: How to Launch a Better Voice Assistant 
+ 
+SoundWave Webinar Series
+How Language Understanding is Key to Conversational AI That's More Human™Get to Market Faster With the Right Voice AI StrategyHow and Why Voice Assistants are Moving to the EdgeThe Shift to Customized Voice Assistants: How Will You Compete? 
+ 
+ 
+ 
+About
+ 
+Our Company
+SoundHound Recognized as 2021 Company of the Year by Frost and Sullivan
+Read more
+ 
+About
+About SoundHoundA leading innovator of conversational intelligenceNewsroomThe latest announcements, news, and company updatesPress RoomInvestorsFinancials and news for SoundHound AI, Inc, (Nasdaq SOUN)CareersJoin Team SoundHound to help build the voice-first futureContact UsGet in touch and speak to an expert about how we can help 
+ 
+ 
+Log in
+ 
+Log in to your Account Dashboard
+Gain access to account setup and management
+ 
+Log In
+Houndify Developer LoginManage your voice assistant and access content domainsSoundHound Restaurants LoginManage your restaurant’s AI voice assistantSmart Answering LoginManage your business’s AI voice assistant 
+ 
+ 
+Support Talk to an expert 
+EDGE & CLOUD CONNECTIVITY
+Suite of Edge and Cloud Connectivity Options
+Get the connectivity you need based on your product, users, and needs.
+Talk to an expert
+ 
+NEED
+Connectivity Tailored to Your Needs
+Our Edge and Edge+Cloud solutions allow brands to optimize their voice-enabled products and devices with options ranging from fully-embedded to exclusively cloud-connected. Choose the solution that best fits your NLU requirements, CPU processing power, privacy, and device or app voice interface requirements.
+Watch video
+ 
+BENEFITS
+A Wide Range of Connectivity Solutions
+ 
+ 
+ 
+ 
+ 
+ EdgeLite
+Process data locally without the privacy or connectivity concerns of the Internet with our fully-embedded solution. Get access to natural language commands with less CPU impact, a bundled wake word, and the ability to instantly update commands.
+ EdgeLite+Cloud
+All the capabilities of EdgeLite with the added flexibility to access the cloud to answer queries or push product updates.
+ Edge
+Fully-embedded solution with as much NLU as you need without the privacy concerns of the Internet. Includes full accessibility to custom commands and the ability to create custom domains for proprietary on-device functionality.
+ Edge+Cloud
+The capabilities of Edge with the flexibility of cloud connectivity. Deliver the level of cloud connectivity that best matches your product and users.
+ Cloud-Only
+Equip your voice assistant with real-time data from the cloud, deliver the most relevant responses with no CPU or memory restrictions, and retain ownership of customer relationships with access to data and analytics.
+ 
+Active Arbitration
+Simultaneously send requests to embedded voice functions and the cloud to return the fastest, most accurate response. Deliver a seamless voice experience to your users regardless of the data source.
+ 
+ 
+WHITEPAPER
+Discovering the Possibilities of Voice Assistants on the Edge
+Voice assistants on the edge are unlocking the possibilities for voice-enabled devices by lowering costs, reducing processing loads and privacy concerns, and the option for seamless cloud connectivity.
+Read the whitepaper
+ 
+INFOGRAPHIC
+Voice Assistants on the Edge Create Greater Value
+SoundHound’s Edge, EdgeLite, Edge+Cloud, and Cloud-only connectivity solutions give manufacturers across industries greater choice in how they deliver voice experiences to their customers and increase product value.
+Find your solution
+ 
+ 
+Capabilities That Scale With Your Business
+Connectivity options that meet every product and user need.
+Flexible SolutionsFrom fully-embedded to cloud-only solutions, you choose the level of product functionality and cloud connection to simply push product updates or open up a world of knowledge through our library of content domains.
+Voice-Enabled DevicesFrom voice-enabled kiosks, to smart devices for the home, to medical equipment, to voice experiences for modern vehicles or any other product, we have the connectivity solution to bring your products to life.
+Learn more about industry solutions
+ 
+Simple or ComplexOur Edge solutions provide light NLU to handle simple commands or deliver fully-conversational advanced NLU for more complex devices.
+Determine Your CPU Footprint We have solutions that can nestle in the smallest CPU footprint or provide expanded voice capabilities for larger CPU devices, allowing for greater functionality, cloud connectivity options, and conversational interactions.
+Control Your DataGain access to data and determine how it is collected, analyzed, and stored. Our Edge products provide the greatest level of data choice and flexibility to improve and optimize product performance.
+ 
+Explore Voice AI for Your Business
+Talk to us about how we can help bring your voice AI strategy to life.
+Speak with an expertTalk to us about what voice AI can do for your business.
+Try it freeOpen a Houndify developer account and explore our platform.
+At SoundHound, we believe every brand should have a voice. As the leading innovator of conversational technologies, we’re trusted by top brands around the globe.
+5400 Betsy Ross Drive 
+Santa Clara, CA 95054
++1(408) 441-3200
+Why SoundHound?
+Customers
+About SoundHound
+Investors
+Newsroom
+Careers
+Support
+ 
+Solutions
+Industries
+Automotive
+Smart Devices
+Restaurant Food Ordering
+Hospitality
+Use Cases
+Contact Centers
+Mobile Apps
+Demos
+ 
+Products
+Products
+Our Platform
+Restaurant Phone Ordering
+Smart Answering OLD
+Wake Word
+Automatic Speech Recognition (ASR)
+Natural Language Understanding (NLU)
+Content Domains
+Edge and Cloud Connectivity
+Text-to-Speech (TTS)
+Developers
+Developer Accounts
+Apps
+SoundHound Music App
+SoundHound Chat AI
+ 
+Resources
+Resource Center
+FAQs
+Voice AI Blog
+Webinars
+Whitepapers
+Videos
+Infographics
+E-Books
+ 
+Language
+English International
+简体中文 (Chinese (Simplified))
+日本語 (Japanese)
+© 2024 SoundHound AI Inc. All Rights Reserved.
+Terms
+Privacy Policy
+Cookie Settings
+Do Not Sell or Share My Personal Information
+ 
