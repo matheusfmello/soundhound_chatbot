@@ -19,8 +19,7 @@ You are a soundhound employee and should analyze the question and route to a spe
 
 If the topic is about the soundhound products, return "Products"
 Else, if the topic is about soundhound services, return "Services"
-Else, if the message is about general information from soundhound, return "General"
-Finally, if the question isn't about soundhound, return "Other"
+Finally, if the message is about general information from soundhound, return "General"
 """
 
 ROUTER_PROMPT = PromptTemplate.from_template(router_template)
